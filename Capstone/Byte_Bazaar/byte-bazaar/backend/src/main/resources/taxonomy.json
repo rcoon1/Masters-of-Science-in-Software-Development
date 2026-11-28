@@ -1,0 +1,94 @@
+{
+  "products": {
+    "PC Components": [
+      "Processors",
+      "Graphics Cards",
+      "Motherboards",
+      "Memory",
+      "PC Cases",
+      "Power Supplies",
+      "Cooling",
+      "Other Components"
+    ],
+    "Storage": [
+      "Solid State Drives",
+      "Hard Drives",
+      "External Storage",
+      "Memory Cards"
+    ],
+    "Computers & Laptops": [
+      "Laptops",
+      "Desktop PCs",
+      "Mini PCs",
+      "Workstations"
+    ],
+    "Peripherals": [
+      "Monitors",
+      "Keyboards",
+      "Mice",
+      "Headsets & Audio",
+      "Webcams",
+      "Hubs & Accessories"
+    ],
+    "Networking": [
+      "Routers",
+      "Network Switches",
+      "Wireless Adapters",
+      "Cables & Accessories"
+    ],
+    "Software & Digital": [
+      "Operating Systems",
+      "Productivity Software",
+      "Development Tools",
+      "Digital Assets",
+      "Templates & Themes"
+    ]
+  },
+  "services": {
+    "Tech Support": [
+      "PC Repair",
+      "Troubleshooting",
+      "Installation & Setup"
+    ],
+    "Development & Design": [
+      "Web Development",
+      "App Development",
+      "Design & Branding"
+    ],
+    "Consulting & Training": [
+      "Build Consultation",
+      "Technical Training",
+      "IT Consulting"
+    ]
+  },
+  "forums": {
+    "Community Hub": [
+      "General Discussion",
+      "Introductions",
+      "Tech News",
+      "Site Feedback"
+    ],
+    "Builds & Troubleshooting": [
+      "Build Planning",
+      "Troubleshooting",
+      "Build Logs & Showcases"
+    ],
+    "Computer Hardware": [
+      "Processors & Motherboards",
+      "Graphics Cards",
+      "Memory & Storage",
+      "Cooling & Cases",
+      "Peripherals"
+    ],
+    "Software & Development": [
+      "Operating Systems",
+      "Programming",
+      "Apps & Tools"
+    ],
+    "Gaming & Networking": [
+      "PC Gaming",
+      "Networking & Security",
+      "Home Servers"
+    ]
+  }
+}

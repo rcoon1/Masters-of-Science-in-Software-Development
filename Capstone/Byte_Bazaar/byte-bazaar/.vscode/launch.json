@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Spring Boot API",
+      "request": "launch",
+      "mainClass": "com.bytebazaar.Application",
+      "projectName": "api",
+      "cwd": "${workspaceFolder}/backend",
+      "console": "integratedTerminal",
+      "args": "--server.port=18080"
+    },
+    {
+      "type": "pwa-chrome",
+      "name": "Debug React in Chrome",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/frontend/src"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Debug Byte Bazaar",
+      "configurations": [
+        "Debug Spring Boot API",
+        "Debug React in Chrome"
+      ]
+    }
+  ]
+}
