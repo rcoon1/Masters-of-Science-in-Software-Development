@@ -1,0 +1,5 @@
+**/node_modules/
+**/dist/
+**/target/
+backend/config/application-local.properties
+.env
